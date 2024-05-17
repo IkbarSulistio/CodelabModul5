@@ -44,3 +44,6 @@ Post Order:
 37 
 25 
 20 
+
+Jawaban latihan2 bagian c
+Perbedaan antara logika dari code Binary Tree dengan Binary Search Tree adalah penempatan node dimana pada Binary Tree tidak ada aturan khusus untuk penempatan node, sementara pada Binary Search Tree node yang berada disebelah kiri harus memiliki nilai yang lebih kecil dibanding node disebelah kanan
